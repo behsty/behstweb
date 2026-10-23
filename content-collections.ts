@@ -16,6 +16,8 @@ const projects = defineCollection({
     order: z.number().default(99),
     github: z.string().optional(),
     liveUrl: z.string().optional(),
+    download: z.string().optional(), // Windows build link, e.g. a GitHub release zip
+    downloadSize: z.string().optional(), // e.g. "120 MB"
     image: z.string().optional(), // e.g. "projects/image.png"
     imageAlt: z.string().optional(), // description for the image
     video: z.string().optional(), // e.g. "/projects/video.mp4"

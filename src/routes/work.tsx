@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { createFileRoute } from '@tanstack/react-router'
 import { allProjects } from 'content-collections'
 import { DialogueBox } from '@/components/DialogueBox'
+import { DownloadButton } from '@/components/DownloadButton'
 import { PageTitle } from '@/components/PageTitle'
 import { Soul } from '@/components/Soul'
 import { sfx } from '@/lib/sound'
@@ -138,6 +139,9 @@ function Work() {
                 >
                   <Soul className="h-3 w-3" /> Inspect code
                 </a>
+              )}
+              {project.download && (
+                <DownloadButton href={project.download} size={project.downloadSize} />
               )}
             </div>
           </div>
