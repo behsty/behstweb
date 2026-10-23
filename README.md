@@ -4,7 +4,9 @@ Further improvements and changes will be made along the way to polish the site w
 
 # The website
 [Netlify Portfolio website](https://behst.netlify.app/) 
+
 # Play [Out of Memory]
 [Play Out of Memory (Windows)](https://github.com/behsty/behstweb/releases/download/games/outofmemory.zip)
+
 # Play [Partners in Crime]
-[Play Out of Memory (Windows)](https://github.com/behsty/behstweb/releases/download/v1.0.0/partnersincrime.zip)
+[Play Partners in Crime (Windows)](https://github.com/behsty/behstweb/releases/download/v1.0.0/partnersincrime.zip)
