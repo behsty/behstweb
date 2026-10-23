@@ -1,0 +1,10 @@
+node_modules
+AGENTS.md
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.netlify
+.tanstack
+.content-collections
