@@ -6,7 +6,7 @@ year: "2026"
 order: 2
 tags: ["Original Assets", "SinglePlayer","Rogue","DIGIPEN","Custom Engine","Game","Lua"]
 video: "/FueledByCaffeine_Gameplay_showcase.mp4"
-download: "https://github.com/behsty/behstweb/releases/tag/games/outofmemory.zip"
+download: "https://github.com/behsty/behstweb/releases/download/games/outofmemory.zip"
 downloadSize: "291 MB"
 # github: "https://github.com/behsty"
 ---
